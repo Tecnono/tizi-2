@@ -19,7 +19,8 @@ Express通过强大的技术能力和快速应对中国网络封锁的能力，�
 
 ## FJCloud（速度最快的网络梯子）
 
-![image](https://www.xfastest.com/data/attachment/forum/202309/19/112540pe782zb17qqsv9wr.jpg.thumb.jpg)
+![Snipaste_2023-09-28_20-46-32](https://github.com/Tecnono/tizi-2/assets/146306577/1b65ad38-f31c-42f6-b386-084dbd5ea836)
+
 
 [点击直达官网](https://go.51tz.cc/fjcloud)
 
