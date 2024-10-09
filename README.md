@@ -4,7 +4,7 @@
 
 这些VPN都有退款保证，如果在使用过程中遇到问题，你可以及时联系客服解决或退款。鉴于特殊时期每家VPN都无法保证完全稳定，我们会定期更新，推荐目前可用的VPN。
 
-以下是[几款好用的科学上网VPN推荐](http://react-china.org/t/topic/40230)，经过中国本地测试。
+以下是[几款好用的科学上网VPN推荐](https://discuss.d2l.ai/t/topic/23106)，经过中国本地测试。
 
 ## NisCloud（综合实力强大）
 [**点击直达官网**](https://go.51tz.cc/nicecloud)
