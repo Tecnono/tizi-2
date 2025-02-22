@@ -4,12 +4,12 @@
 
 这些VPN都有退款保证，如果在使用过程中遇到问题，你可以及时联系客服解决或退款。鉴于特殊时期每家VPN都无法保证完全稳定，我们会定期更新，推荐目前可用的VPN。
 
-以下是2025年[几款好用的科学上网VPN推荐](https://discuss.d2l.ai/t/topic/23106)，经过中国本地测试。
+以下是2025年[几款好用的科学上网VPN推荐](https://github.com/2025vpn/TOP10_VPN)，经过中国本地测试。
 
 ## NisCloud（综合实力强大）
 [**点击直达官网**](https://go.1vpn.cc/nisi)
 
-![耐思云](https://github.com/Tecnono/tizi-2/assets/146306577/9c24b0e9-2714-4091-81cc-6c947feb5bab)
+![耐思云](https://www.cnvintage.org/assets/files/2025-02-22/1740202800-654716-nice.png)
 
 
 NisCloud通过强大的技术能力和快速应对中国网络封锁的能力，成为国外翻墙最佳选择，拥有非常庞大的用户群体。
